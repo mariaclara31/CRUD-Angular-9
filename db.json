@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "SmartTV LED 4K 55 polegadas Samsung",
+      "price": 6699.99
+    },
+    {
+      "id": 2,
+      "name": "Macbook Air",
+      "price": 11999.99
+    },
+    {
+      "name": "Fone de ouvido JBL 500BT",
+      "price": "219",
+      "id": 3
+    }
+  ]
+}
